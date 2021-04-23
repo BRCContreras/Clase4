@@ -35,7 +35,7 @@ function llamadora (call){
 
     }
 }
-
+//aqui llamamos otra funcion
 llamadora(llamada);
 
 // let miArray = [10,20,30,40];
